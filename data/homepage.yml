@@ -24,15 +24,15 @@ vision:
   enable : true
   section : "VISION"
   vision_item:
-  - title : "People First"
+  - title : "Electronics"
     image : "images/vision/vision-01.jpg"
     content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
     
-  - title : "Employee Culture"
+  - title : "Rigging"
     image : "images/vision/vision-02.jpg"
     content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
     
-  - title : "The Omega Way"
+  - title : "Composites"
     image : "images/vision/vision-03.jpg"
     content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
 

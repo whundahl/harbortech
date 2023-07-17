@@ -43,12 +43,12 @@ weight = 5
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "120px"
+logo_width = "350px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "137 Washington st <br>Dr. Marblehead, <br>MA 01945"
 # Preloader
 preloader = true
 # google map
