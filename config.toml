@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://harbortech.co"
 title = "HarborTech"
-theme = "omega-hugo"
+theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
