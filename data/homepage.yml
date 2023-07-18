@@ -11,7 +11,7 @@ banner:
   button2:
     enable : true
     label : "SERVICES"
-    link : "Services"
+    link : "#Services"
 
 #################### Mission #####################
 mission:
