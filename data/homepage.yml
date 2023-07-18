@@ -6,8 +6,12 @@ banner:
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
-    label : "WHAT WE DO"
+    label : "Products"
     link : "#products"
+  button2:
+    enable : true
+    label : "SERVICES"
+    link : "Services"
 
 #################### Mission #####################
 mission:
@@ -44,19 +48,19 @@ product:
   title : "Some Of Our Best Products"
   content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
   product_item:
-  - title : "Ecosystem"
+  - title : "Soft Shackles"
     image : "images/product/product-03.jpg"
     content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
     
-  - title : "Objects"
+  - title : "Covered Loops"
     image : "images/product/product-02.jpg"
     content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
     project_url : "#"
     
-  - title : "Publisher"
+  - title : "Running Rigging"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "our rigging services are designed to optimize your boat's performance and safety. We offer comprehensive rig inspections, upgrades, and replacements to ensure that your rigging is in top condition, allowing you to sail with peace of mind."
     project_url : "#"
 
 

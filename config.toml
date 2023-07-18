@@ -38,7 +38,7 @@ weight = 5
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "350px"
+logo_width = "230px"
 # Meta data
 description = "Marine Services offered by HarborTech"
 author = "Themefisher"
