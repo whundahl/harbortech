@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Marine Maintenance Redefined"
+  title : "Maintenance Redefined"
   content : "Elevating Your Marine Experience with Cutting-Edge Technology, Craftsmanship, and Performance."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
@@ -18,9 +18,9 @@ mission:
   enable : true
   title : "Marine Electronics & Rigging"
   section : "WELCOME"
-  content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs.."
+  content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs."
   video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  video_id: "qhRsKl9esnU"
 
 
 #################### Vission #####################
