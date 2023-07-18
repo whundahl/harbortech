@@ -13,7 +13,7 @@ banner:
 mission:
   enable : true
   title : "Marine Electronics & Rigging"
-  section : "Services"
+  section : "WELCOME"
   content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs.."
   video_thumb: "images/video-thumb.jpg"
   video_id: "ResipmZmpDU"
@@ -22,7 +22,7 @@ mission:
 #################### Vission #####################
 vision:
   enable : true
-  section : "VISION"
+  section : "SERVICES"
   vision_item:
   - title : "Electronics"
     image : "images/vision/vision-01.jpg"
@@ -72,6 +72,6 @@ contact:
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
-  button_link : "career"
+  title : "Keep your systems running. <br>Click below to send us an email."
+  button_label : "Email a HarborTech"
+ 
