@@ -16,9 +16,9 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Marine Electronics & Rigging"
+  title : "Maintenance Services"
   section : "WELCOME"
-  content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs."
+  content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. We generally focus on sailboats but we welcome all inquires. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs."
   video_thumb: "images/video-thumb.jpg"
   video_id: "qhRsKl9esnU"
 
@@ -30,15 +30,14 @@ vision:
   vision_item:
   - title : "Electronics"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
-    
+    content : "Harbortech takes pride in providing expert marine electronics services, including installations and calibrations, to ensure that your boat is equipped with cutting-edge technology and that all systems perform optimally. Our skilled technicians are well-versed in a wide range of marine electronic equipment."
   - title : "Rigging"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "HarborTech takes great pride in offering comprehensive and professional rigging services that are tailored to meet the unique needs of each boat and sailor."
     
   - title : "Composites"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : ""
 
 
 #################### product ####################
@@ -46,7 +45,7 @@ product:
   enable : true
   section : "Products"
   title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  content : "When you choose Harbortech's rigging products, you can trust that you're getting top-of-the-line gear that combines innovation, performance, and durability. Upgrade your rigging with our soft shackles and running rigging options, and discover a new level of sailing excellence."
   product_item:
   - title : "Soft Shackles"
     image : "images/product/product-03.jpg"
@@ -70,8 +69,7 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
-
+  content : "Contact us today to discuss your marine engineering and electronics requirements. Let us navigate the challenges together and propel your maritime ventures to success. Your journey starts with HarborTech."
   
 ################### call to action #################
 call_to_action:
