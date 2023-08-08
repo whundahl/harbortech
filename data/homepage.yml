@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Maintenance Redefined"
+  title : "Marine Engineering"
   content : "Elevating Your Marine Experience with Cutting-Edge Technology, Craftsmanship, and Performance."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
@@ -29,14 +29,14 @@ vision:
   section : "SERVICES"
   vision_item:
   - title : "Electronics"
-    image : "images/vision/vision-01.jpg"
-    content : "Harbortech takes pride in providing expert marine electronics services, including installations and calibrations, to ensure that your boat is equipped with cutting-edge technology and that all systems perform optimally. Our skilled technicians are well-versed in a wide range of marine electronic equipment."
+    image : "images/vision/vision-01-01.jpg"
+    content : ""
   - title : "Rigging"
-    image : "images/vision/vision-02.jpg"
-    content : "HarborTech takes great pride in offering comprehensive and professional rigging services that are tailored to meet the unique needs of each boat and sailor."
+    image : "images/vision/vision-02-02.jpg"
+    content : ""
     
   - title : "Composites"
-    image : "images/vision/vision-03.jpg"
+    image : "images/vision/vision-03-03.jpg"
     content : ""
 
 
@@ -49,18 +49,19 @@ product:
   product_item:
   - title : "Soft Shackles"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "These soft shackles are covered with Dyneema® chafe sleeve for extra wear resistance. They are incredibly strong, inexpensive, and absolutely the lightest way to make connections.  Great for halyards, jib sheets, and anything else you can think of."
     project_url : "#"
     
   - title : "Covered Loops"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Loop with cover, made out of 100% Dyneema® fibers. Great to lash blocks anywhere onto your boat. Made with 5 mm Dyneema® which is lashed 3 times in the cover. Available in various sizes."
     project_url : "#"
     
   - title : "Running Rigging"
     image : "images/product/product-04.jpg"
     content : "our rigging services are designed to optimize your boat's performance and safety. We offer comprehensive rig inspections, upgrades, and replacements to ensure that your rigging is in top condition, allowing you to sail with peace of mind."
     project_url : "#"
+
 
 
 ###################### Contact ####################

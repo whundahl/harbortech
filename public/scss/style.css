@@ -9803,7 +9803,7 @@ body {
         transform: rotate(0); } }
     .vision .section-title span {
       font-size: 17px;
-      color: #fff;
+      color: #848484;
       letter-spacing: 12px; }
     .vision .section-title:before {
       position: absolute;
@@ -9873,6 +9873,7 @@ body {
       .visions .vision-item .text-content h3 {
         margin-bottom: 20px;
         text-transform: capitalize;
+        color: #fff;
         font-size: 35px;
         letter-spacing: 0; }
       .visions .vision-item .text-content p {
