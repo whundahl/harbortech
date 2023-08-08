@@ -41,9 +41,9 @@ logo = "images/logo.png"
 logo_width = "230px"
 # Meta data
 description = "Marine Services offered by HarborTech"
-author = "Themefisher"
+author = "HarborTech"
 # contact info
-contact_info = "137 Washington st <br> Marblehead, <br>MA 01945"
+contact_info = "137 Washington St <br> Marblehead, <br>MA 01945"
 # Preloader
 preloader = true
 # google map

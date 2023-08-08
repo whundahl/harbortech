@@ -16,9 +16,9 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Maintenance Services"
+  title : "Marine Services"
   section : "WELCOME"
-  content : "Welcome to HarborTech! We specialize in marine electronics and rigging services. We generally focus on sailboats but we welcome all inquires. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs."
+  content : "Welcome to HarborTech! We specialize in marine engineering, electronics and rigging services. We generally focus on sailboats but we welcome all inquires. With a passion for all things related to boating and the sea, we are dedicated to providing top-notch solutions for your marine needs."
   video_thumb: "images/video-thumb.jpg"
   video_id: "qhRsKl9esnU"
 
@@ -62,7 +62,10 @@ product:
     content : "our rigging services are designed to optimize your boat's performance and safety. We offer comprehensive rig inspections, upgrades, and replacements to ensure that your rigging is in top condition, allowing you to sail with peace of mind."
     project_url : "#"
 
-
+  - title : "Custom Instrument Covers"
+    image : "images/product/product-05.jpg"
+    content : "Send us your boat name of logo and we will make custom 3D printed instrument covers for your boat!"
+    project_url : "#"
 
 ###################### Contact ####################
 contact:
@@ -76,5 +79,5 @@ contact:
 call_to_action:
   enable : true
   title : "Keep your systems running. <br>Click below to send us an email."
-  button_label : "Email a HarborTech"
+  button_label : "Email HarborTech"
   button_link : "careers"
