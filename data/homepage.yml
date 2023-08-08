@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Marine Engineering"
+  title : "Maintenance Redefined"
   content : "Elevating Your Marine Experience with Cutting-Edge Technology, Craftsmanship, and Performance."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
@@ -65,6 +65,11 @@ product:
   - title : "Custom Instrument Covers"
     image : "images/product/product-05.jpg"
     content : "Send us your boat name of logo and we will make custom 3D printed instrument covers for your boat!"
+    project_url : "#"
+
+  - title : "Traditional soft Shackles"
+    image : "images/product/product-06.jpg"
+    content : "Light, strong, dependable, and useful for all sorts of applications where a stainless shackle would otherwise be employed. One end is a knot; the other end is a splice. Made with SK-78, & Available in various sizes."
     project_url : "#"
 
 ###################### Contact ####################
