@@ -49,7 +49,7 @@ preloader = true
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDtUhna4NjvGFUMoYbTZRXB7wKPoW7mRfA"
 map_center_lat = "42.4915"
 map_center_lng = "-70.8578"
 map_position_lat = "42.4915"
