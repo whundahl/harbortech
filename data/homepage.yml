@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Maintenance Redefined"
+  title : "Marine Technology"
   content : "Elevating Your Marine Experience with Cutting-Edge Technology, Craftsmanship, and Performance."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
