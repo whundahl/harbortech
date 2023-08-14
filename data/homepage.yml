@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Marine Technology"
+  title : "Powering Progress"
   content : "Elevating Your Marine Experience with Cutting-Edge Technology, Craftsmanship, and Performance."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
